@@ -1,4 +1,4 @@
-package com.example.bulbul.androidpdfreadertest;
+package com.example.musta.androidpdfreadertest;
 
 import android.content.Context;
 import android.graphics.Bitmap;
